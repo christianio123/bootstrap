@@ -1,2 +1,1 @@
-# bootstrap
-Web design involving bootstrap.
+TinDog Starting Files
